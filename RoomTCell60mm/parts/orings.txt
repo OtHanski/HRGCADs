@@ -1,0 +1,3 @@
+2x ID10, OD13       - Inlet & Outlet
+2x ID20, OD23       - Endpieces
+2x ID8, OD10.5      - Monitor windows

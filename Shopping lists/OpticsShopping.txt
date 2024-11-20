@@ -1,0 +1,11 @@
+Power meter head:
+	https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=3333
+	Maybe S401C?
+	
+IR viewer:
+	https://www.oelabs.com/?product-4920.html
+	Wait for Francois to link correct one
+
+Shorter doubler crystal:
+	Crylight
+	Castech
